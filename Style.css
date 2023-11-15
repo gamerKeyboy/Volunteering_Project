@@ -78,6 +78,7 @@ button {
 
 .img-fluid {
     max-width: 100%;
+    position: absolute;
 }
 .img-profile {
     max-width: 300px;
