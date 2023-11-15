@@ -80,7 +80,7 @@ button {
     max-width: 100%;
 }
 .img-profile {
-    max-width: 25%;
+    max-width: 25px;
 }
 
 button:hover {
