@@ -79,6 +79,9 @@ button {
 .img-fluid {
     max-width: 100%;
 }
+.img-profile {
+    max-width: 25%;
+}
 
 button:hover {
     background-color: antiquewhite;
