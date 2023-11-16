@@ -83,6 +83,9 @@ button {
 .img-profile {
     max-width: 300px;
 }
+.img-slide{
+    max-width: 400px;
+}
 .img-logo {
     max-width: 50px;
 }
