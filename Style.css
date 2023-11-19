@@ -73,7 +73,7 @@ button {
     cursor: pointer;
 }
 .blue{
-    color: blue;
+    color: rgb(13, 13, 255);
 }
 .img-fluid {
     max-width: 100%;
