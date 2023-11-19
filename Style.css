@@ -12,14 +12,16 @@ h1 {
     border-bottom: 8px green solid;
 }
 
-h1,
+h1{
+
+}
 h2 {
-    color: green;
+    color: rgb(180, 17, 17);
     font-family: 'Lucida Sans', sans-serif;
 }
 
 a {
-    color: blue
+
 }
 
 .list {
@@ -28,7 +30,9 @@ a {
     padding: 1em;
     text-decoration: none;
 }
-
+.red{
+    color: rgb(180, 17, 17) ;
+}
 .box {
     background-color: green;
     padding: 12px;
@@ -36,10 +40,6 @@ a {
 
 }
 
-.cats {
-    font-weight: bold;
-    text-decoration: underline;
-}
 
 .button {
     background-color: lightgrey;
