@@ -90,7 +90,7 @@ button {
     min-width: 100px;
 }
 .img-profilepic{
-    max-width: 50px;
+     max-width: 50px;
 }
 button:hover {
     background-color: antiquewhite;
