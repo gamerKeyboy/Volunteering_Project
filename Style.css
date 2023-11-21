@@ -10,6 +10,7 @@ p .Text {
 
 h1 {
     border-bottom: 8px rgb(40, 6, 194) solid;
+    color: rgba(0, 0, 255, 0.938);
 }
 
 h2 {
